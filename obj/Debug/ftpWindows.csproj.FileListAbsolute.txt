@@ -1,0 +1,10 @@
+E:\project\计网课设\ftpWindows\bin\Debug\ftpWindows.exe.config
+E:\project\计网课设\ftpWindows\bin\Debug\ftpWindows.exe
+E:\project\计网课设\ftpWindows\bin\Debug\ftpWindows.pdb
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.csproj.AssemblyReference.cache
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.Properties.Resources.resources
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.csproj.GenerateResource.cache
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.csproj.CoreCompileInputs.cache
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.exe
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.pdb
+E:\project\计网课设\ftpWindows\obj\Debug\ftpWindows.Form1.resources
